@@ -1,4 +1,8 @@
 Hello, git
 We rock
 We roll
+<<<<<<< HEAD
 We develop
+=======
+Mistake
+>>>>>>> 8284971c5a99ce4474942011a29b326f9fdd1e3c
